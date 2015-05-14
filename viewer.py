@@ -60,13 +60,13 @@ def glresize(width, height):
 	glMatrixMode(GL_MODELVIEW)
 	glLoadIdentity()
 
-path = "Research/"
+path = "Research\\"
 #path = "I:/DisneyInfinityAssets"
 
 di = diutil.DIUtil(path)
 
-#char = "wr_vanellope"
-char = "fro_elsa"
+char = "wr_vanellope"
+#char = "fro_elsa"
 #char = "blobshadow"
 #char = '_proxyavatar'
 #char = 'inc_scourge_pod'
@@ -85,8 +85,8 @@ char = "fro_elsa"
 #tex = gltexture(file=di.char_tex(char,tex))
 tex = 0
 
-os.chdir(di.char_dir(char))
 obj = di.char_oct(char)
+os.chdir(di.char_dir(char))
 
 ibuf = bstream.BStream(file=obj.IndexBufferPool[0].FileName)
 vbuf = bstream.BStream(file=obj.VertexBufferPool[0].FileName)
@@ -246,13 +246,13 @@ for f,i,v in zip(flists,ilists,vlists):
 	if f[0] == 0x6133d27b:
 		for j in range(len(i)):
 			i1,i2,i3 = i[j]
-			#glColor(cs[v[i1][5]*255 + v[i1][9]])
+			glColor(cs[v[i1][5]*255 + v[i1][9]])
 			glTexCoord(*v[i1][3:5])
 			glVertex(v[i1][:3])
-			#glColor(cs[v[i2][5]*255 + v[i2][9]])
+			glColor(cs[v[i2][5]*255 + v[i2][9]])
 			glTexCoord(*v[i2][3:5])
 			glVertex(v[i2][:3])
-			#glColor(cs[v[i3][5]*255 + v[i2][9]])
+			glColor(cs[v[i3][5]*255 + v[i2][9]])
 			glTexCoord(*v[i3][3:5])
 			glVertex(v[i3][:3])
 	elif f[0] == 0xea1acc4c or f[0] == 0x01890ff9:
