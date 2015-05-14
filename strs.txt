@@ -1,0 +1,2203 @@
+
+SurfaceTypesPool
+SurfaceTypes
+0
+NumSurfaceNames
+SurfaceNames
+default
+gooLarge
+gooSmall
+bounceMed
+cardboard
+carpet
+chainlink
+climbable
+cloth
+concrete
+deepwater
+dirt
+dirt_OffRoad
+electronic
+fence
+forcefield
+glass
+gravel
+opaqueglass
+grass
+grass_OffRoad
+hay
+heavywood
+ice
+ladder
+leaves
+metal
+murkywater
+ndcardboard
+ndcarpet
+ndconcrete
+ndheavywood
+ndmetal
+ndpavement
+ndsheetrock
+ndthinmetal
+ndtile
+ndwood
+nothing
+pavement
+PlayerReset
+rock
+sand
+shallowwater
+sheetrock
+sidle
+softanddusty
+splat
+tallgrass
+thinmetal
+tile
+vaultable
+vaulttrigger
+vegitation
+wood
+damage1
+damage2
+damage3
+ledgehangpull
+noledgehang
+plastic
+cloud
+asphalt
+SubNetworkPool
+SubNetwork
+Name
+Scene
+Type
+BasisPool
+Basis
+Geometry3d
+Behavior
+Root
+1
+Anchor
+ParentRef
+Normal
+2
+Anchor_CM_Node
+3
+AnchorScale
+4
+Cntrl_Main
+5
+Cntrl_Main_2
+6
+Cntrl_Crotch_Grp
+7
+Cntrl_Crotch
+8
+Cntrl_Foot_Left_Grp
+9
+Cntrl_Foot_Left
+10
+Cntrl_FootCenter_Left_Grp
+11
+Cntrl_FootCenter_Left
+12
+Cntrl_Tip_Left_Grp
+13
+Cntrl_Tip_Left
+14
+Cntrl_Heel_Left_Grp
+15
+Cntrl_Heel_Left
+16
+Cntrl_Twist_Left
+17
+Cntrl_Toes_Left_Grp
+18
+Cntrl_Ball_Left
+19
+Cntrl_Ankle_Left_Grp
+20
+Cntrl_Knee_Left_Grp
+21
+Cntrl_Knee_Left
+22
+Cntrl_Foot_Right_Grp
+23
+Cntrl_Foot_Right
+24
+Cntrl_FootCenter_Right_Grp
+25
+Cntrl_FootCenter_Right
+26
+Cntrl_Tip_Right_Grp
+27
+Cntrl_Tip_Right
+28
+Cntrl_Heel_Right_Grp
+29
+Cntrl_Heel_Right
+30
+Cntrl_Twist_Right
+31
+Cntrl_Toes_Right_Grp
+32
+Cntrl_Ball_Right
+33
+Cntrl_Ankle_Right_Grp
+34
+Cntrl_Knee_Right_Grp
+35
+Cntrl_Knee_Right
+36
+Cntrl_Body_Grp
+37
+Cntrl_Body
+38
+Cntrl_Body_2
+39
+Proxy_Cntrl_Spine1
+40
+Cntrl_Spine1
+41
+Cntrl_Spine2_Grp
+42
+Cntrl_Spine2
+43
+Cntrl_Spine3_Grp
+44
+Cntrl_Spine3
+45
+Cntrl_Neck_Grp
+46
+Cntrl_Neck
+47
+Cntrl_Head_Grp
+48
+Cntrl_Head
+49
+Proxy_UpperLidLeft_Grp
+50
+Proxy_UpperLidRight_Grp
+51
+Proxy_LowerLidLeft_Grp
+52
+Proxy_LowerLidRight_Grp
+53
+Cntrl_Eye_Grp
+54
+Cntrl_Eye
+55
+Cntrl_Eye_Left_Grp
+56
+Cntrl_Eye_Right_Grp
+57
+Proxy_HairExtentBox_Grp
+58
+Proxy_HairExtentBox
+59
+Cntrl_LipCorner_Left_Pivot_Grp
+60
+Cntrl_LipCorner_Left_Pivot
+61
+Cntrl_LipCorner_Left_Grp
+62
+Cntrl_LipCorner_Right_Pivot_Grp
+63
+Cntrl_LipCorner_Right_Pivot
+64
+Cntrl_LipCorner_Right_Grp
+65
+Cntrl_Jaw_Pivot_Grp
+66
+Cntrl_Jaw_Pivot
+67
+Cntrl_LipLower_Pivot_Grp
+68
+Cntrl_LipLower_Pivot
+69
+Cntrl_LipLower_Grp
+70
+Cntrl_LipUpper_Pivot_Grp
+71
+Cntrl_LipUpper_Pivot
+72
+Cntrl_LipUpper_Grp
+73
+Cntrl_BrowCenter_Grp
+74
+Cntrl_BrowLeft_Grp
+75
+Cntrl_BrowRight_Grp
+76
+Bloat_Marker_Grp
+77
+Cntrl_Clavicle_Left_Grp
+78
+Cntrl_Clavicle_Left
+79
+Cntrl_Shoulder_Spin_Left_Grp
+80
+Cntrl_Shoulder_Spin_Left
+81
+Cntrl_Shoulder_Left_Grp
+82
+Cntrl_Shoulder_Left
+83
+Cntrl_Elbow_Left_Grp
+84
+Cntrl_Elbow_Left
+85
+Cntrl_Hand_Left_Grp
+86
+Cntrl_Hand_Left
+87
+Cntrl_Thumb1_LeftGrp
+88
+Cntrl_CarryLeft_Grp
+89
+Proxy_ForearmAttach_Left
+90
+Cntrl_ForearmAttach_Left_Grp
+91
+Cntrl_ForearmAttach_Left
+92
+Cntrl_Clavicle_Right_Grp
+93
+Cntrl_Clavicle_Right
+94
+Cntrl_Shoulder_Spin_Right_Grp
+95
+Cntrl_Shoulder_Spin_Right
+96
+Cntrl_Shoulder_Right_Grp
+97
+Cntrl_Shoulder_Right
+98
+Cntrl_Elbow_Right_Grp
+99
+Cntrl_Elbow_Right
+100
+Cntrl_Hand_Right_Grp
+101
+Cntrl_Hand_Right
+102
+Cntrl_Thumb1_RightGrp
+103
+Cntrl_Carry_Grp
+104
+Proxy_ForearmAttach_Right
+105
+Cntrl_ForearmAttach_Right_Grp
+106
+Cntrl_ForearmAttach_Right
+107
+Cntrl_JetPack_Grp
+108
+Cntrl_StickyHand_Back_Grp
+109
+Proxy_HairAimAt_Grp
+110
+Cntrl_StickyHand_Front_Grp
+111
+Cntrl_Hips_Grp
+112
+Cntrl_UpperDress_OL_Left_Grp
+113
+Proxy_UpperDress_OL_Left
+114
+Cntrl_UpperDress_Left
+115
+Proxy_LowerDress_Left_Grp
+116
+Proxy_LowerDress_Left
+117
+Proxy_LowerDress_OL_Left_Grp
+118
+Proxy_KneeForward_Left_Grp
+119
+Cntrl_UpperDress_OL_Right_Grp
+120
+Proxy_UpperDress_OL_Right
+121
+Proxy_LowerDress_OL_Right_Grp
+122
+Proxy_KneeForward_Right_Grp
+123
+Cntrl_UpperDress_Right
+124
+Proxy_LowerDress_Right_Grp
+125
+Proxy_LowerDress_Right
+126
+Proxy_KneeAim_Grp
+127
+Proxy_KneeAim
+128
+Proxy_KneeMarker_Grp
+129
+Proxy_KneeMarker
+130
+Body
+131
+Spine1
+132
+Spine2
+133
+Spine3
+134
+Clavicle_Left
+135
+Shoulder_Spin_Left
+136
+Shoulder_Left
+137
+Elbow_Left
+138
+Hand_Left
+139
+Index1_Left
+140
+Middle1_Left
+141
+Thumb1_Left
+142
+Clavicle_Right
+143
+Shoulder_Spin_Right
+144
+Shoulder_Right
+145
+Elbow_Right
+146
+Hand_Right
+147
+Index1_Right
+148
+Middle1_Right
+149
+Thumb1_Right
+150
+Neck
+151
+Head
+152
+hairStart
+153
+hair01
+154
+CornerLipLeft
+155
+CornerLipRight
+156
+Jaw
+157
+LowerLip
+158
+UpperLip
+159
+BrowCenter
+160
+BrowLeft
+161
+BrowRight
+162
+Hips
+163
+Thigh_Left
+164
+Knee_Left
+165
+Ankle_Left
+166
+Ball_Left
+167
+Toes_Left
+168
+Thigh_Right
+169
+Knee_Right
+170
+Ankle_Right
+171
+Ball_Right
+172
+Toes_Right
+173
+Thigh_OL_Left
+174
+UpperDress_Left
+175
+kneeLeftAim
+176
+dressLeftStart
+177
+Thigh_OL_Right
+178
+UpperDress_Right
+179
+kneeRightAim
+180
+dressRightStart
+181
+ConstraintGroup
+182
+Visibility
+183
+HeaderStrings
+Cntrl_LipCorner_Right_Grp to Cntrl_LipCorner_Right_Pivot_Grp
+In Knee_Left
+Cntrl_Hand_Right to Elbow_Right.Translation
+In UpperDress_Left.Translation
+Cntrl_LipUpper_Grp to Head
+Proxy_KneeForward_Left_Grp to Proxy_LowerDress_OL_Left_Grp
+Hips to Cntrl_Body
+InputEndInitialPosition
+Cntrl_BrowRight
+Knee_Right to Proxy_KneeAim_Grp
+Convert To Knee_Right
+Cntrl_Ball_Right to Hips
+Thumb1_Right_orientConstraint1
+Proxy_Thigh_OL_Right_pointConstraint1
+Cntrl_Head to Head
+Hand_Left to AnchorScale
+Cntrl_Head to Neck
+Cntrl_Crotch to AnchorScale
+Cntrl_Elbow_Left to Elbow_Left
+Spine2_orientConstraint1
+In Hips.Translation
+Hips to WorldBasis
+Middle1Spread
+Proxy_ForearmAttach_Right_orientConstraint1
+Neck to WorldBasis
+AnchorScale to Knee_Right
+Cntrl_Clavicle_Right to Spine3.Orientation
+DynamicChainExtentBox1
+Ankle_Right to Thigh_Right
+Spin
+BrowRight_scaleConstraint1
+DynamicChainExtentBox2
+Bloat_Marker
+Cntrl_Shoulder_Right to Shoulder_Spin_Right.Orientation
+In Proxy_LowerDress_Right_Grp.Orientation
+Heel
+Cntrl_Twist_Left to Ball_Left
+Thumb1_Right_pointConstraint1
+Lazy_EyeConstraintGroup
+Ball_Left to AnchorScale
+ComputeAimDirection
+Hand_Right_orientConstraint1
+AnchorScale to Spine1
+Proxy_LowerLidLeft_Grp to Head
+Hand_Right to WorldBasis
+AnchorScale to Spine2
+AnchorScale to Spine3
+ConvertRotorToEulerZXY
+ApplyOffset
+CornerLipRight_scaleConstraint1
+Ball_Right_orientConstraint1
+Shoulder_Left to WorldBasis
+Side
+In Cntrl_Elbow_Left.Orientation
+Cntrl_Elbow_Left to Shoulder_Left.Translation
+In UpperDress_Right.Translation
+Spine3 to AnchorScale
+Index1_Right to WorldBasis
+TargetWeight0
+BrowLeft_orientConstraint1
+Cntrl_Ankle_Right_Grp to Hips
+AxisRef
+Thigh_Left to AnchorScale
+UpperLidLeft
+Elbow_Right_orientConstraint1
+Ankle_Right to Proxy_LowerDress_OL_Right_Grp
+Cntrl_Ball_Left to Ankle_Left
+Ball_Right to AnchorScale
+AnchorScale to Elbow_Left
+Hips to Cntrl_UpperDress_OL_Right_Grp
+Cntrl_BrowCenter_Grp to Head
+Thigh_OL_Left to Cntrl_UpperDress_OL_Left_Grp
+Cntrl_Body to AnchorScale
+Cntrl_LipCorner_Left_Grp to Cntrl_LipCorner_Left_Pivot_Grp
+Thigh_OL_Right to AnchorScale
+Thigh_OL_Right_orientConstraint1
+Cntrl_Shoulder_Spin_Right to Clavicle_Right.Translation
+InputMidInitialPosition
+Cntrl_Attach
+Knee_Right to Proxy_KneeMarker_Grp.Orientation
+Particle0
+Proxy_Thigh_OL_Left_pointConstraint1
+UpperDress_Left to WorldBasis
+Particle1
+In Proxy_LowerDress_OL_Left_Grp.Translation
+Transform.Orientation.EulerZXY.Y
+Cntrl_ForearmAttach_Right_orientConstraint1
+In Knee_Left.Orientation
+Convert To Head
+Transform.Orientation.EulerZXY.Z
+In Head.Scale
+Convert To Cntrl_Elbow_Right
+Proxy_LowerDress_Right_orientConstraint1
+Elbow_Left_pointConstraint1
+Spine1 to WorldBasis
+AlignReference
+Middle1
+Ankle_Right_orientConstraint1
+Middle2
+Cntrl_ForearmAttach_Right1
+Proxy_ForearmAttach_Left_orientConstraint1
+Position
+Proxy_Thigh_OL_Right_orientConstraint1
+LastTarget
+Elbow_OL_Left_orientConstraint1
+In Proxy_LowerDress_Right_Grp
+Clavicle_Right_pointConstraint1
+CornerLipRight_orientConstraint1
+Toes_Left to WorldBasis
+Convert To Proxy_LowerDress_OL_Right_Grp
+Transform.Orientation.EulerZXY.Z_Transform.Orientation.EulerZXY.Z
+PoleVector
+CornerLipLeft_pointConstraint1
+Cntrl_Crotch to Ankle_Left
+kneeLeftAim to WorldBasis
+Lazy_MouthConstraintGroup
+In Knee_Right.Orientation
+Cntrl_Crotch to Knee_Left
+dressRightEnd
+Shoulder_Spin_Right_orientConstraint1
+Proxy_ForearmAttach_Left_pointConstraint1
+In Ball_Left
+Axis
+Cntrl_LipCorner_Right
+Invert
+Thumb1_Left_pointConstraint1
+In Hand_Left.Translation
+AnchorScale to Knee_Left
+In Ball_Right.Translation
+Hand_Left to WorldBasis
+OrientConstraint
+Cntrl_ForearmAttach_Left1
+Proxy_KneeForward_Right
+Spine3 to Head.Orientation
+InputStartInitialPosition
+Thigh_OL_Left to Cntrl_UpperDress_OL_Left_Grp.Orientation
+Knee_Left to Proxy_KneeMarker_Grp.Translation
+Hips to Proxy_UpperDress_OL_Left
+Cntrl_Shoulder_Spin_Left to Clavicle_Left.Translation
+Cntrl_Spine3 to AnchorScale
+Knee_Right to Cntrl_Crotch
+Knee_Right to AnchorScale
+Cntrl_Ankle_Left_Grp to Hips
+WorldUpVector
+BrowLeft_scaleConstraint1
+AnchorScale to Head
+AnchorScale to Neck
+Convert To Proxy_LowerDress_Left_Grp
+Hips to Proxy_LowerDress_OL_Right_Grp
+Proxy_KneeMarker to Proxy_KneeAim_Grp
+FloatMultiply
+Cntrl_ForearmAttach_Left_pointConstraint1
+In Hand_Right.Orientation
+Cntrl_Jaw_Pivot to Head.Translation
+Knee_Right to WorldBasis
+eyeLeft
+Spine3_orientConstraint1
+Cntrl_Twist_Right to Ankle_Right
+Thigh_Left to Proxy_LowerDress_OL_Left_Grp
+Clavicle_Left to WorldBasis
+BrowRight_pointConstraint1
+Cntrl_Hand_Left to Elbow_Left.Orientation
+Cntrl_Spine2 to Spine1.Translation
+Cntrl_Shoulder_Left to Shoulder_Spin_Left.Translation
+ConcatenateChain
+AimDirection
+Spine2 to AnchorScale
+Ball
+UpReference
+Cntrl_Toes_Left_Grp to Ball_Left
+Ankle_Right to Proxy_LowerDress_OL_Right_Grp.Translation
+Cntrl_Shoulder_Spin_Left to Clavicle_Left
+Velocity
+Cntrl_StickyHand_Front
+Cntrl_LipLower
+In Proxy_LowerDress_OL_Right_Grp.Translation
+CornerLipRight_pointConstraint1
+Proxy_LowerDress_OL_Left_Grp to Proxy_LowerDress_Left_Grp
+UpperLip_scaleConstraint1
+Elbow_Left_orientConstraint1
+hair01 to WorldBasis
+Cntrl_Spine1 to Body
+Hips to AnchorScale
+Cntrl_Hand_Right to Elbow_Right.Orientation
+In Cntrl_Elbow_Right.Translation
+SideRef
+Ball_Left_orientConstraint1
+Cntrl_LipUpper_Pivot_Grp to Head
+Thigh_Left to Cntrl_Twist_Left
+Proxy_ForearmAttach_Right_pointConstraint1
+avaIK_Ankle_Right
+Cntrl_Body to AnchorScale.Translation
+Jaw to WorldBasis
+Transform.Translation
+Proxy_KneeForward_Right_Grp to Proxy_LowerDress_OL_Right_Grp
+Multiplier
+Proxy_LowerDress_OL_Right_aimConstraint1
+Cntrl_UpperDress_OL_Right_Grp to Hips
+Cntrl_Elbow_Right to Shoulder_Right.Translation
+Cntrl_Toes_Left
+Cntrl_Knee_Left to Hips
+Cntrl_UpperDress_Right to Thigh_OL_Right
+Index2_Left
+Cntrl_UpperDress_Left to Thigh_OL_Left.Orientation
+In Ball_Left.Translation
+In Head.Translation
+eyeRight
+Identity
+RelationshipProcessor
+Proxy_LowerLidRight
+Cntrl_Ball_Left to Knee_Left
+Convert To UpperDress_Left
+UpDirection
+Cntrl_LipCorner_Right_Pivot_Grp to Head
+UpperDress_Left_orientConstraint1
+Cntrl_Eye_Left_Grp to Head
+DynamicChain
+Thumb2_Left
+In Proxy_LowerDress_Left_Grp
+Cntrl_Head to Neck.Orientation
+Cntrl_Jaw_Pivot_Grp to Head
+Cntrl_LowerDress_Right
+In Proxy_HairExtentBox_Grp
+Cntrl_LipCorner_Left
+Ankle_Left to Proxy_LowerDress_OL_Left_Grp.Translation
+PoleVectorConstraint
+Twist
+BrowRight_orientConstraint1
+TargetAverage
+Cntrl_Spine2 to AnchorScale
+Shoulder_Right_orientConstraint1
+In UpperDress_Right.Orientation
+Proxy_LowerDress_Left_Grp to Proxy_UpperDress_OL_Left
+FloatNegate
+Convert To Body
+Thigh_Right to Proxy_LowerDress_OL_Right_Grp
+Proxy_KneeMarker_pointConstraint1
+Proxy_HairAimAt_Grp to Proxy_HairExtentBox_Grp
+Cntrl_Hand_Right to Elbow_Right
+AnchorScale to Shoulder_Spin_Left
+Cntrl_Ankle_Right_Grp to Knee_Right
+Knee_Left to Cntrl_Crotch
+Ankle_Left to WorldBasis
+Elbow_OL_Left
+In WorldBasis
+Cntrl_LipCorner_Right_Grp to Head
+Knee_Left to AnchorScale
+Cntrl_Elbow_Right to Elbow_Right
+Cntrl_Shoulder_Right to Shoulder_Spin_Right
+Cntrl_StickyHand_Back
+Shoulder_Right to WorldBasis
+GrowShrink
+Shoulder_OL_Right_orientConstraint1
+Cntrl_Jaw_Pivot to Head.Scale
+In kneeRightAim
+AnchorScale to Clavicle_Right
+Body_orientConstraint1
+Proxy_KneeForward_Left
+Cntrl_LowerDress_Left
+AimConstraint
+Tip
+UpperDress_Right_orientConstraint1
+BrowLeft_pointConstraint1
+Convert To Proxy_KneeAim_Grp
+Thigh_OL_Right to Cntrl_UpperDress_OL_Right_Grp.Orientation
+UpperLidLeft_orientConstraint1
+LowerLip_scaleConstraint1
+UpperLip_orientConstraint1
+Spine1 to AnchorScale
+IK2BRPConstraint
+ScaleMultiplier
+Spine1_pointConstraint1
+Cntrl_Crotch to Knee_Right
+Thumb2
+Cntrl_Neck to Spine3
+Clavicle_Left_pointConstraint1
+Knee_Left to Proxy_KneeAim_Grp.Translation
+LastSegmentData0
+LastSegmentData1
+BrowCenter to WorldBasis
+Cntrl_LipUpper_Grp to Cntrl_LipUpper_Pivot_Grp
+Elbow_Right_pointConstraint1
+avaIK_Ankle_Left
+Cntrl_UpperDress_Left to Thigh_OL_Left
+Knee_Twist
+LowerLidRight
+Convert To Hips
+Spine2_pointConstraint1
+UpperDress_Right to WorldBasis
+Cntrl_Eye_Right
+Toes_Left_orientConstraint1
+Jaw_scaleConstraint1
+In Body.Orientation
+Ankle_Right to AnchorScale
+Cntrl_Spine1 to Body.Orientation
+Convert From WorldBasis
+Cntrl_Clavicle_Left to Spine3
+BrowCenter_scaleConstraint1
+In Proxy_LowerDress_OL_Right_Grp
+Index1_Left to WorldBasis
+Knee_Right to Proxy_KneeMarker_Grp
+Proxy_LowerDress_Right_Grp to Proxy_UpperDress_OL_Right
+CornerLipLeft to WorldBasis
+Shoulder_Spin_Right to WorldBasis
+Spine3_pointConstraint1
+Proxy_LowerDress_OL_Right_Grp to Proxy_LowerDress_Right_Grp
+Cntrl_Thumb1_Right
+Knee_Left to Proxy_KneeMarker_Grp
+LastFrame
+Cntrl_LipLower_Grp to Head
+Shoulder_Spin_Left_orientConstraint1
+Hand_Left_pointConstraint1
+Cntrl_Hand_Left to Elbow_Left
+Convert To Proxy_LowerDress_OL_Left_Grp
+Proxy_LowerDress_OL_Left
+ConstraintPoint
+In Ball_Right.Orientation
+Cntrl_Clavicle_Right to Spine3.Translation
+ComputeAxis
+Convert To WorldBasis
+Cntrl_Shoulder_Right to Shoulder_Spin_Right.Translation
+Cntrl_Ball_Left to Hips
+Head to WorldBasis
+Knee_Left to Proxy_KneeAim_Grp
+Spine3 to WorldBasis
+In Cntrl_Elbow_Left
+Shoulder_Right to AnchorScale
+ConcatenateChainInverse
+RelationshipData
+In UpperDress_Left.Orientation
+In UpperDress_Right
+Clavicle_Right to WorldBasis
+AnchorScale to WorldBasis
+Convert To hairStart
+Transform.Orientation.EulerZXY
+Cntrl_Spine3 to Spine2.Translation
+Hips to Proxy_LowerDress_OL_Left_Grp
+BrowCenter_orientConstraint1
+In Cntrl_Elbow_Left.Translation
+Toes_Right_orientConstraint1
+Cntrl_Carry
+Proxy_UpperLidRight_Grp to Head
+AnchorScale to Thigh_OL_Left
+Elbow_Right to AnchorScale
+Cntrl_Ankle_Left
+Vector
+Proxy_UpperLidRight
+Proxy_UpperLidLeft_Grp to Head
+InputMidLocalToParentInitialOrientation
+AnchorScale to Hips
+Cntrl_Spine1 to AnchorScale
+In kneeLeftAim
+Cntrl_Spine2 to Spine1.Orientation
+Cntrl_Shoulder_Left to Shoulder_Spin_Left.Orientation
+In Proxy_HairExtentBox_Grp.Translation
+LowerLip to WorldBasis
+Cntrl_JetPack
+SpineSpin_Angle
+Neck to AnchorScale
+Cntrl_Clavicle_Left to Spine3.Translation
+Ankle_Right to WorldBasis
+Convert To Hand_Left
+Hips_pointConstraint1
+Cntrl_UpperDress_Right to Thigh_OL_Right.Translation
+Cntrl_Twist_Left to Ankle_Left
+Offset
+Proxy_KneeMarker_orientConstraint1
+Hips to Cntrl_UpperDress_OL_Left_Grp
+UpperLidRight_orientConstraint1
+Knee_Right to Proxy_KneeMarker_Grp.Translation
+Shoulder_Left to AnchorScale
+Cntrl_Neck to Spine3.Orientation
+In Cntrl_Elbow_Right
+Cntrl_Eye to Head
+Thigh_OL_Left_orientConstraint1
+Cntrl_Ball_Right to Ankle_Right.Orientation
+kneeLeftAim_orientConstraint1
+In Head
+Concatenate
+Cntrl_Shoulder_Left to Shoulder_Spin_Left
+Jaw_orientConstraint1
+Cntrl_Elbow_Left to Shoulder_Left.Orientation
+Connection
+Cntrl_Twist_Right to Hips
+Cntrl_Jaw_Pivot to Head
+UpperDress_Right to AnchorScale
+In Hand_Right
+Cntrl_Twist_Right to Ball_Right
+Middle2_Left
+In UpperDress_Left
+In Proxy_LowerDress_Left_Grp.Orientation
+LowerLidRight_orientConstraint1
+In Ball_Right
+Neck_orientConstraint1
+Clavicle_Right_orientConstraint1
+In Head.Orientation
+UpperDress_Left to AnchorScale
+LowerLip_pointConstraint1
+Cntrl_Shoulder_Spin_Right to Clavicle_Right.Orientation
+Head to AnchorScale
+Cntrl_Elbow_Right to Shoulder_Right
+Cntrl_Body_2 to Body
+AvaCNodeAngle_Cntrl_Foot_Left_Knee
+Hips_orientConstraint1
+Cntrl_Head to Proxy_HairExtentBox_Grp
+Shoulder_Spin_Left to WorldBasis
+Thumb1_Left_orientConstraint1
+Convert To kneeRightAim
+poleVectorConstraint1
+Ankle_Left to Cntrl_Crotch
+Body to Cntrl_Crotch
+poleVectorConstraint2
+Proxy_UpperDress_OL_Left to Hips
+Shoulder_Spin_Left to AnchorScale
+Spin_Transform.Orientation.EulerZXY.Y
+Cntrl_Origin
+AnchorScale to Clavicle_Left
+Cntrl_LipCorner_Left_Grp to Head
+UpperLidRight
+hair02
+UpperLip to WorldBasis
+hairStart to WorldBasis
+ComputeRoot
+Toes
+Cntrl_Thumb1_RightGrp to Hand_Right
+In Knee_Right
+Transform
+Shoulder_Left_orientConstraint1
+Jaw_pointConstraint1
+Middle1_Left to WorldBasis
+Proxy_LowerLidRight_Grp to Head
+Cntrl_Eye_Right_Grp to Head
+kneeRightAim to WorldBasis
+In Hand_Right.Translation
+BrowCenter_pointConstraint1
+ConvertEulerZXYToRotor
+In Proxy_LowerDress_OL_Left_Grp
+Cntrl_Knee_Right to Hips
+Cntrl_Spine2 to Spine1
+Proxy_HairExtentBox_aimConstraint1
+Cntrl_Spine3 to Spine2
+Cntrl_Spine3 to Spine3
+Clavicle_Left to AnchorScale
+AnchorScale to Elbow_Right
+Proxy_KneeAim_aimConstraint1
+Cntrl_Crotch to Ankle_Right
+InvertConcatenateChain
+Elbow_Right to WorldBasis
+Cntrl_Hand_Left to Elbow_Left.Translation
+Cntrl_Elbow_Left to Shoulder_Left
+In Hand_Left.Orientation
+Proxy_LowerDress_Left to UpperDress_Left
+Thigh_OL_Left to AnchorScale
+Forearm_OL_Right
+DynamicChainExtentBox
+dressLeftEnd
+Convert To Knee_Left
+AnchorScale to Shoulder_Left
+Shoulder_OL_Left
+UpperLip_pointConstraint1
+Convert To Ball_Right
+Cntrl_Ball_Left to Ankle_Left.Orientation
+Proxy_LowerLidLeft
+Cntrl_FootCenter_Left to Hips
+ComputeUpDirection
+Knee_Left to Proxy_KneeMarker_Grp.Orientation
+Cntrl_Body to Body
+Cntrl_Thumb1_Left
+Cntrl_Shoulder_Spin_Left to Clavicle_Left.Orientation
+Cntrl_LipCorner_Left_Pivot_Grp to Head
+UpperDress_Right_pointConstraint1
+Cntrl_Crotch to Body
+Cntrl_Clavicle_Right to Spine3
+Ankle_Left to AnchorScale
+LowerLip_orientConstraint1
+Cntrl_ForearmAttach_Left_orientConstraint1
+Cntrl_Jaw_Pivot to Head.Orientation
+Cntrl_BrowLeft
+Cntrl_LipLower_Grp to Cntrl_LipLower_Pivot_Grp
+Cntrl_Spine3 to Cntrl_Spine2
+Toes_Right to WorldBasis
+AnchorScale to Thigh_OL_Right
+Proxy_HairExtentBox to WorldBasis
+Proxy_HairExtentBox to AnchorScale
+Cntrl_Ankle_Right
+Hand_Left_orientConstraint1
+Convert To Proxy_LowerDress_Right_Grp
+Knee
+Knee_Left to WorldBasis
+InputDistanceThreshold
+Toes_Left_pointConstraint1
+Cntrl_LipUpper
+Thigh_Right to Cntrl_Twist_Right
+Ankle_Right to Cntrl_Crotch
+Cntrl_Ball_Right to Ankle_Right
+In hairStart
+Hips to Cntrl_Crotch
+AnchorScale to Ankle_Right
+Cntrl_UpperDress_Left to Thigh_OL_Left.Translation
+Cntrl_Ankle_Left_Grp to Knee_Left
+Hand_Right to AnchorScale
+Anchor_CM_Node to WorldBasis
+hairStart_orientConstraint1
+Body_pointConstraint1
+Ankle_Left_orientConstraint1
+Ankle_Left to Thigh_Left
+Cntrl_Body to Hips
+PointConstraint
+Proxy_HairAimAt
+Index2_Right
+kneeLeftAim_pointConstraint1
+Cntrl_UpperDress_OL_Left_Grp to Hips
+Cntrl_Neck to AnchorScale
+Spine1_orientConstraint1
+Rotor
+Cntrl_Neck to Cntrl_Spine2
+Hips to Proxy_UpperDress_OL_Right
+Cntrl_Crotch to Hips
+Cntrl_UpperDress_OL_Right_Grp to Thigh_OL_Right
+Proxy_LowerDress_Right to UpperDress_Right
+AnchorScale to Shoulder_Right
+AnchorScale to Shoulder_Spin_Right
+Cntrl_Head to Neck.Translation
+Cntrl_LipLower_Pivot_Grp to Head
+Thigh_OL_Right to Cntrl_UpperDress_OL_Right_Grp
+In Cntrl_Elbow_Right.Orientation
+Shoulder_Spin_Left_pointConstraint1
+Cntrl_BrowLeft_Grp to Head
+In Hand_Left
+Cntrl_Body_2 to AnchorScale
+Proxy_LowerDress_OL_Right
+AvaCNodeAngleNegate_Cntrl_Foot_Right_Knee
+Cntrl_Body to AnchorScale.Orientation
+Spine3 to Head
+Transform.Orientation
+Cntrl_Spine3 to Spine2.Orientation
+InputStartLocalToParentInitialOrientation
+Proxy_Thigh_OL_Left_orientConstraint1
+Elbow_Left to WorldBasis
+Cntrl_Twist_Left to Knee_Left
+Shoulder_Right_pointConstraint1
+Cntrl_Elbow_Right to Shoulder_Right.Orientation
+Index1
+Index2
+Knee_Right to Proxy_KneeAim_Grp.Translation
+Index1Spread
+Elbow_OL_Right
+Toes_Right_pointConstraint1
+Proxy_LowerDress_OL_Left_aimConstraint1
+In Ball_Left.Orientation
+Ankle_Left to Proxy_LowerDress_OL_Left_Grp
+Cntrl_Thumb1_LeftGrp to Hand_Left
+Ball_Right to WorldBasis
+Cntrl_BrowRight_Grp to Head
+Clavicle_Right to AnchorScale
+ScaleConstraint
+Cntrl_Shoulder_Spin_Right to Clavicle_Right
+Head_orientConstraint1
+Cntrl_Twist_Left to Hips
+kneeRightAim_orientConstraint1
+In Body
+Thumb1_Left to WorldBasis
+ChainData
+Cntrl_Clavicle_Left to Spine3.Orientation
+Thigh_Right to AnchorScale
+Shoulder_Spin_Right_pointConstraint1
+Cntrl_UpperDress_Right to Thigh_OL_Right.Orientation
+Hips to Proxy_KneeMarker_Grp
+Cntrl_FootCenter_Right to Hips
+Thumb2_Right
+BrowLeft to WorldBasis
+Thumb1_Right to WorldBasis
+CornerLipLeft_orientConstraint1
+Thigh_OL_Left to Cntrl_UpperDress_OL_Left_Grp.Translation
+Cntrl_UpperDress_OL_Left_Grp to Thigh_OL_Left
+Cntrl_Head to AnchorScale
+Elbow_Left to AnchorScale
+ForearmSpin_Angle_Right
+LowerLidLeft
+Thigh_OL_Right to Cntrl_UpperDress_OL_Right_Grp.Translation
+In Proxy_KneeAim_Grp
+Cntrl_Twist_Right to Knee_Right
+Elbow_OL_Right_orientConstraint1
+Convert To Proxy_HairExtentBox_Grp
+LowerLidLeft_orientConstraint1
+dressRightStart to WorldBasis
+Shoulder_OL_Right
+Cntrl_Toes_Right
+BrowRight to WorldBasis
+Cntrl_Head to Cntrl_Spine2
+Cntrl_Spine2 to Proxy_HairExtentBox_Grp
+InputMidLocalToStartParentInitialOrientation
+Cntrl_Toes_Right_Grp to Ball_Right
+eyeLeft_aimConstraint1
+Convert To kneeLeftAim
+Convert To Ball_Left
+dressLeftStart to WorldBasis
+Head_pointConstraint1
+Body to Cntrl_Body
+Cntrl_Head to Proxy_HairExtentBox_Grp.Translation
+kneeRightAim_pointConstraint1
+Proxy_UpperLidLeft
+Cntrl_ForearmAttach_Right_pointConstraint1
+Shoulder_Spin_Right to AnchorScale
+Shoulder_OL_Left_orientConstraint1
+CornerLipRight to WorldBasis
+Proxy_LowerDress_Left_orientConstraint1
+Ball_Left to WorldBasis
+InputStartLocalToStartParentInitialOrientation
+Cntrl_Hips_Grp to Body
+Forearm_OL_Left
+Hand_Right_pointConstraint1
+Shoulder_Left_pointConstraint1
+In Body.Translation
+Spine2 to WorldBasis
+Cntrl_Eye_Left
+Cntrl_Spine1 to Body.Translation
+ComponentProcessor
+Cntrl_BrowCenter
+ForearmSpin_Angle_Left
+Convert To Hand_Right
+Convert To Cntrl_Elbow_Left
+UpperDress_Left_pointConstraint1
+CornerLipLeft_scaleConstraint1
+In Hips
+Middle1_Right to WorldBasis
+Body to WorldBasis
+Transform.Scale
+AvaDynamicChainConstraintNode1
+Convert To UpperDress_Right
+AvaDynamicChainConstraintNode2
+Proxy_UpperDress_OL_Right to Hips
+AvaDynamicChainConstraintNode3
+eyeRight_aimConstraint1
+Proxy_KneeAim_pointConstraint1
+Cntrl_Hips
+Cntrl_Ball_Right to Knee_Right
+Cntrl_CarryLeft
+Hips to Proxy_KneeAim_Grp
+Head to Spine3
+AnchorScale to Ankle_Left
+Middle2_Right
+ConcatenateInverse
+Clavicle_Left_orientConstraint1
+HeaderStringIndices
+HeaderLayout
+DataNodePool
+DataNode
+Header
+External
+BasisRef
+Data
+Dilation
+Translation
+Orientation
+Scale
+Unscale
+Peeked
+Float
+Static
+RelationshipDataBlock
+CacheArrayU16
+Count
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+EulerZXY
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+600
+601
+602
+603
+604
+605
+606
+607
+608
+609
+610
+611
+612
+613
+614
+615
+616
+617
+618
+619
+620
+621
+622
+623
+624
+625
+626
+627
+628
+629
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+640
+641
+642
+643
+644
+645
+646
+647
+648
+649
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+660
+661
+662
+663
+664
+665
+666
+667
+668
+669
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+800
+801
+802
+803
+804
+805
+806
+807
+808
+809
+810
+811
+812
+813
+814
+815
+816
+817
+818
+819
+820
+821
+822
+823
+824
+825
+826
+827
+828
+829
+830
+831
+832
+833
+834
+835
+836
+837
+838
+839
+840
+841
+842
+843
+844
+845
+846
+847
+848
+849
+850
+851
+852
+853
+854
+855
+856
+857
+858
+859
+860
+861
+862
+863
+864
+865
+866
+867
+868
+869
+870
+871
+872
+873
+874
+875
+876
+877
+878
+879
+880
+881
+882
+883
+884
+885
+886
+887
+888
+889
+890
+891
+892
+893
+894
+895
+896
+897
+898
+899
+900
+901
+902
+903
+904
+905
+906
+907
+908
+909
+910
+911
+912
+913
+914
+915
+916
+917
+918
+919
+920
+921
+922
+923
+924
+925
+926
+927
+928
+929
+930
+931
+932
+933
+934
+935
+936
+937
+938
+939
+940
+941
+942
+943
+944
+945
+946
+947
+948
+949
+950
+951
+952
+953
+954
+ChainParticle
+ConfigFlags
+InverseMass
+DampingFactor
+NaturalFrequency
+RelativeTarget
+ConstraintLength
+BindTransform
+955
+956
+957
+958
+959
+960
+961
+Uint
+962
+DynamicChainData
+GlobalDamping
+IterationRate
+ContainerExtent
+963
+964
+965
+966
+967
+968
+969
+970
+971
+972
+973
+974
+975
+976
+977
+978
+979
+980
+ProcessorNodePool
+ProcessorNode
+ConcatenateTransformDilation
+Family
+DataNodeRefs
+DataNodeAttributes
+Left
+Right
+Output
+InvertDilation
+SingleInputSingleOutput
+Input
+ConcatenateDilationTransform
+InvertTransform
+Relationship
+Input[0]
+Input[1]
+LastSegmentData[0]
+LastSegmentData[1]
+Output[0]
+ConcatenateChainInverseDilation
+DoubleChain
+InvertInput[0]
+ConcatenateChainDilation
+ArrayInputSingleOutput
+Input[2]
+Input[3]
+Output[1]
+Output[2]
+Output[3]
+Input[4]
+ConcatenateInverseTransformDilation
+Input[5]
+TransformComponentProcessorDecompose
+AggregateDecompose
+Aggregate
+DilationComponentProcessorDecompose
+TransformDilationWithTransform
+Converter
+DilationComponentProcessorCompose
+AggregateCompose
+EulerZXYComponentProcessorCompose
+Y
+EulerZXYToRotorVariantProcessor
+TransformDilationWithDilation
+RotorToEulerZXYVariantProcessor
+EulerZXYComponentProcessorDecompose
+Z
+Position3dConnection
+InvertConcatenateChainDilation
+InvertInput[1]
+TransformComponentProcessorCompose
+InvertConcatenateChainTransform
+ConcatenateChainTransform
+InverseTransformDilationWithDilation
+TransformVectorWithDilation
+AimConstraintProcessorNode
+UpInput
+AlignInput
+Position3dDifferenceProcessor
+Delta
+To
+From
+Position3dWeightedAverageProcessor
+WeightedArrayInputSingleOutput
+TargetInput[0]
+TargetInput[1]
+TargetWeight[0]
+TargetWeight[1]
+NetworkBufferOffsets
+NetworkBufferNames
+Position3dOffsetProcessor
+SimpleOffset
+IK2BRPLengthSquashZConstraint
+InputTwist
+InputPoleVector
+InputStartTranslate
+InputScaleMultiplier
+InputTargetTranslation
+OutputRotation[0]
+OutputRotation[1]
+OutputScale[0]
+OutputScale[1]
+TransformPositionWithDilation
+InverseTransformVectorWithTransform
+InverseTransformPositionWithTransform
+TransformTransformWithTransform
+TransformTransformWithDilation
+UnitRotor3dConnection
+UnitRotor3dOffsetProcessor
+UnitRotor3dWeightedAverageProcessor
+FloatConnection
+ConstraintPoint[0]
+Particle[0]
+Particle[1]
+LastTarget[1]
+Velocity[0]
+Velocity[1]
+AnchorToWorld
+Container
+Position[0]
+Position[1]
+TransformPositionWithTransform
+Scale3dConnection
+BasisConversionPool
+BasisConversion
+FromBasisRef
+ToBasisRef
+DataNodeRef
+ComponentNames
+ComponentFamilyPool
+ComponentFamily
+PatriarchDataNodeRef
+ComponentNameIndices
+ComponentDataNodeRefs
+VariantGroupPool
+VariantGroup
+ConnectionMapUsedDataNodes
+DefaultDataIndices
+DefaultData
+BaseDataNodeLinksPool
+BaseDataNodeLinks
+Anchor-Main
+ConnectionTemplate
+characters/biped/biped.ct
+AttachName
+Flags
+DataNodeLinks
+NetworkBuffer
+DisplayLayerPool
+DisplayLayer
+_cull_default
+Mask
+MaterialBundlePool
+MaterialBundle
+FileName
+fro_elsa.mtb
+MaterialPool
+Material
+FRO_Elsa_Pupil
+characters__fro_elsa__materials__fro_elsa_pupil__skinning_isEnabled_true.mtl
+RenderCaps
+Shader
+Effect
+PropertyEntries
+FRO_Elsa_Head1
+characters__fro_elsa__materials__fro_elsa_head__skinning_isEnabled_true.mtl
+FRO_Elsa_Body
+characters__fro_elsa__materials__fro_elsa_body__skinning_isEnabled_true.mtl
+VertexBufferPool
+VertexBuffer
+Size
+HeapLoc
+fro_elsa_0.vbuf
+Dynamic
+IndexBufferPool
+IndexBuffer
+Width
+fro_elsa_0.ibuf
+SceneTreeNodePool
+Node
+NodeName
+Uuid
+ParentNodeReferences
+LocalToParentMatrix
+bodyMesh2
+Geometry
+Visible
+DynamicVisPlacement
+MeshName
+bodyMesh2Shape
+BoundingSphereCenter
+BoundingSphereRadius
+BoundingOBBOrientation
+BoundingOBBCenter
+BoundingOBBExtents
+BoundingBox
+BoundingType
+Box
+NumPrimitives
+Primitives
+Primitive
+MaterialName
+characters__fro_elsa__materials__fro_elsa_pupil__skinning_isEnabled_true
+MaterialReference
+vformatCRC
+BillboardType
+OcclusionType
+OcclusionCheckRadius
+OcclusionFadeKp
+Idata
+Vdata
+characters__fro_elsa__materials__fro_elsa_head__skinning_isEnabled_true
+characters__fro_elsa__materials__fro_elsa_body__skinning_isEnabled_true
+BindPoseMeshLocalToWorldMatrix
+NumInfluences
+Influences
+Influence
+BindPoseSkinLocalToWorldMatrixInverseData
+NumInfluenceRemaps
+InfluenceRemapInfluenceRefs
+InfluenceRemapPrimitiveData
+AssociationPool
+Association
+SceneTreeNodeRef
+SubNetworkRef
+PrimaryAnchor
+Anchor|Anchor_CM_Node
+Anchor|AnchorScale
+PrimaryAsset
+Anchor|Spine1|Transform|Spine1 to WorldBasis
+SkinInfluence
+SceneTreeNodeRefs
+InfluenceRefs
+Anchor|Toes_Right|Transform|Toes_Right to WorldBasis
+Anchor|Ball_Right|Transform|Ball_Right to WorldBasis
+Anchor|Ankle_Right|Transform|Ankle_Right to WorldBasis
+Anchor|Knee_Right|Transform|Knee_Right to WorldBasis
+Anchor|Toes_Left|Transform|Toes_Left to WorldBasis
+Anchor|Ball_Left|Transform|Ball_Left to WorldBasis
+Anchor|Head|Transform|Head to WorldBasis
+Anchor|BrowLeft|Transform|BrowLeft to WorldBasis
+Anchor|Ankle_Left|Transform|Ankle_Left to WorldBasis
+Anchor|BrowCenter|Transform|BrowCenter to WorldBasis
+Anchor|Knee_Left|Transform|Knee_Left to WorldBasis
+Anchor|BrowRight|Transform|BrowRight to WorldBasis
+Anchor|Hips|Transform|Hips to WorldBasis
+Anchor|CornerLipLeft|Transform|CornerLipLeft to WorldBasis
+Anchor|Body|Transform|Body to WorldBasis
+Anchor|CornerLipRight|Transform|CornerLipRight to WorldBasis
+Anchor|Thumb1_Right|Transform|Thumb1_Right to WorldBasis
+Anchor|Jaw|Transform|Jaw to WorldBasis
+Anchor|Thumb2_Left|Transform|In WorldBasis
+Anchor|LowerLidLeft|Transform|In WorldBasis
+Anchor|Neck|Transform|Neck to WorldBasis
+Anchor|LowerLidRight|Transform|In WorldBasis
+Anchor|Spine3|Transform|Spine3 to WorldBasis
+Anchor|LowerLip|Transform|LowerLip to WorldBasis
+Anchor|Hand_Left|Transform|Hand_Left to WorldBasis
+Anchor|UpperLidLeft|Transform|In WorldBasis
+Anchor|Forearm_OL_Left|Transform|In WorldBasis
+Anchor|UpperLidRight|Transform|In WorldBasis
+Anchor|UpperLip|Transform|UpperLip to WorldBasis
+Anchor|dressRightStart|Transform|dressRightStart to WorldBasis
+Anchor|dressLeftStart|Transform|dressLeftStart to WorldBasis
+Anchor|eyeLeft|Transform|In WorldBasis
+Anchor|eyeRight|Transform|In WorldBasis
+Anchor|UpperDress_Right|Transform|UpperDress_Right to WorldBasis
+Anchor|UpperDress_Left|Transform|UpperDress_Left to WorldBasis
+Anchor|hair02|Transform|In WorldBasis
+Anchor|hair01|Transform|hair01 to WorldBasis
+Anchor|hairStart|Transform|hairStart to WorldBasis
+Anchor|Shoulder_OL_Right|Transform|In WorldBasis
+Anchor|Elbow_OL_Right|Transform|In WorldBasis
+Anchor|Forearm_OL_Right|Transform|In WorldBasis
+Anchor|Thumb2_Right|Transform|In WorldBasis
+Anchor|Middle2_Right|Transform|In WorldBasis
+Anchor|Middle1_Right|Transform|Middle1_Right to WorldBasis
+Anchor|Index2_Right|Transform|In WorldBasis
+Anchor|Index1_Right|Transform|Index1_Right to WorldBasis
+Anchor|Hand_Right|Transform|Hand_Right to WorldBasis
+Anchor|Elbow_Right|Transform|Elbow_Right to WorldBasis
+Anchor|Shoulder_Right|Transform|Shoulder_Right to WorldBasis
+Anchor|Shoulder_Spin_Right|Transform|Shoulder_Spin_Right to WorldBasis
+Anchor|Clavicle_Right|Transform|Clavicle_Right to WorldBasis
+Anchor|Shoulder_OL_Left|Transform|In WorldBasis
+Anchor|Elbow_OL_Left|Transform|In WorldBasis
+Anchor|Thumb1_Left|Transform|Thumb1_Left to WorldBasis
+Anchor|Middle2_Left|Transform|In WorldBasis
+Anchor|Middle1_Left|Transform|Middle1_Left to WorldBasis
+Anchor|Index2_Left|Transform|In WorldBasis
+Anchor|Index1_Left|Transform|Index1_Left to WorldBasis
+Anchor|Elbow_Left|Transform|Elbow_Left to WorldBasis
+Anchor|Shoulder_Left|Transform|Shoulder_Left to WorldBasis
+Anchor|Shoulder_Spin_Left|Transform|Shoulder_Spin_Left to WorldBasis
+Anchor|Clavicle_Left|Transform|Clavicle_Left to WorldBasis
+Anchor|Spine2|Transform|Spine2 to WorldBasis
+ExporterDate
+May  2 2013
+ExporterTime
+09:33:49
+
