@@ -4,7 +4,12 @@ Research on Disney Octane Engine
 Detail
 ======
 Octane Engine is used in Disney Infinity and other Disney games.
+
 This project is intended to render/animate models used in Octane games.
+
+This program can rander static Octane model successfully most of time
+
+Still researching on animation format
 
 
 Disclaimer
